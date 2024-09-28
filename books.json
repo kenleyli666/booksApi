@@ -94,7 +94,7 @@
     "id": "8",
     "title": "The Hobbit",
     "author": "J.R.R. Tolkien",
-    "price": 159,
+    "price": 149,
     "publication_year": 1937,
     "genre": [
       "Fantasy",
@@ -107,7 +107,7 @@
     "id": "9",
     "title": "One Hundred Years of Solitude",
     "author": "Gabriel Garcia Marquez",
-    "price": 159,
+    "price": 139,
     "publication_year": 1967,
     "genre": [
       "Magical Realism",
@@ -120,7 +120,7 @@
     "id": "10",
     "title": "War and Peace",
     "author": "Leo Tolstoy",
-    "price": 159,
+    "price": 129,
     "publication_year": 1869,
     "genre": [
       "Historical Fiction",
@@ -133,7 +133,7 @@
     "id": "11",
     "title": "The Odyssey",
     "author": "Homer",
-    "price": 159,
+    "price": 119,
     "publication_year": "8th century BCE",
     "genre": [
       "Epic",
@@ -146,7 +146,7 @@
     "id": "12",
     "title": "The Divine Comedy",
     "author": "Dante Alighieri",
-    "price": 159,
+    "price": 109,
     "publication_year": "1320",
     "genre": [
       "Epic",
@@ -159,7 +159,7 @@
     "id": "13",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoevsky",
-    "price": 159,
+    "price": 99,
     "publication_year": 1880,
     "genre": [
       "Classic",
@@ -172,7 +172,7 @@
     "id": "14",
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
-    "price": 159,
+    "price": 109,
     "publication_year": 1866,
     "genre": [
       "Classic",
@@ -185,7 +185,7 @@
     "id": "15",
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
-    "price": 159,
+    "price": 119,
     "publication_year": 1890,
     "genre": [
       "Gothic",
@@ -198,7 +198,7 @@
     "id": "16",
     "title": "Brave New World",
     "author": "Aldous Huxley",
-    "price": 159,
+    "price": 129,
     "publication_year": 1932,
     "genre": [
       "Dystopian",
@@ -211,7 +211,7 @@
     "id": "17",
     "title": "The Count of Monte Cristo",
     "author": "Alexandre Dumas",
-    "price": 159,
+    "price": 139,
     "publication_year": 1844,
     "genre": [
       "Adventure",
@@ -224,7 +224,7 @@
     "id": "18",
     "title": "Anna Karenina",
     "author": "Leo Tolstoy",
-    "price": 159,
+    "price": 149,
     "publication_year": 1877,
     "genre": [
       "Classic",
@@ -250,7 +250,7 @@
     "id": "20",
     "title": "The Adventures of Huckleberry Finn",
     "author": "Mark Twain",
-    "price": 159,
+    "price": 169,
     "publication_year": 1884,
     "genre": [
       "Adventure",
@@ -263,7 +263,7 @@
     "id": "21",
     "title": "The Iliad",
     "author": "Homer",
-    "price": 159,
+    "price": 179,
     "publication_year": "8th century BCE",
     "genre": [
       "Epic",
@@ -273,5 +273,3 @@
     "cover_image": "https://fakeimg.pl/100x100/cc6600"
   }
 ]
-
-
