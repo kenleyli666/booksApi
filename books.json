@@ -10,7 +10,7 @@
       "Classic"
     ],
     "description": "A classic novel depicting racial injustice in the American South.",
-    "cover_image": "/images/hl-01.jpeg"
+    "cover_image": "/images/hl-01.jpg"
   },
   {
     "id": "2",
@@ -75,7 +75,7 @@
       "Adventure"
     ],
     "description": "An epic fantasy saga about the quest to destroy the One Ring.",
-    "cover_image": "/images/sg-01.jpg"
+    "cover_image": "/images/sg-01.jpeg"
   },
   {
     "id": "7",
