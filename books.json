@@ -10,7 +10,7 @@
       "Classic"
     ],
     "description": "A classic novel depicting racial injustice in the American South.",
-    "cover_image": "/images/dog.jpeg"
+    "cover_image": "/images/hl-01.jpg"
   },
   {
     "id": "2",
@@ -23,7 +23,7 @@
       "Science Fiction"
     ],
     "description": "A dystopian novel portraying a totalitarian society.",
-    "cover_image": "/images/boy.gif"
+    "cover_image": "/images/hl-02.jpg"
   },
   {
     "id": "3",
@@ -36,7 +36,7 @@
       "Romance"
     ],
     "description": "A classic novel exploring themes of love, marriage, and social norms.",
-    "cover_image": "/images/girl.jpeg"
+    "cover_image": "/images/jp-01.jpg"
   },
   {
     "id": "4",
@@ -49,7 +49,7 @@
       "Classic"
     ],
     "description": "A tale of the American Dream, wealth, and love during the Roaring Twenties.",
-    "cover_image": "/images/mother.jpeg"
+    "cover_image": "/images/jp-02.jpg"
   },
   {
     "id": "5",
@@ -62,7 +62,7 @@
       "Adventure"
     ],
     "description": "The epic tale of Captain Ahab's obsession with the white whale.",
-    "cover_image": "/images/pig.jpeg"
+    "cover_image": "/images/sf-01.jpg"
   },
   {
     "id": "6",
@@ -75,7 +75,7 @@
       "Adventure"
     ],
     "description": "An epic fantasy saga about the quest to destroy the One Ring.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    "cover_image": "/images/sg-01.jpg"
   },
   {
     "id": "7",
@@ -88,7 +88,7 @@
       "Coming-of-age"
     ],
     "description": "A classic coming-of-age novel following Holden Caulfield's journey.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    "cover_image": "/images/sy-01.jpg"
   },
   {
     "id": "8",
@@ -101,7 +101,7 @@
       "Adventure"
     ],
     "description": "The prequel to The Lord of the Rings, following Bilbo Baggins' journey.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    "cover_image": "/images/xdmc-01.jpg"
   },
   {
     "id": "9",
