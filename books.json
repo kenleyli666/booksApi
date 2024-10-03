@@ -1,275 +1,275 @@
 [
-  {
-    "id": "1",
-    "title": "《西遊記》",
-    "author": "吳承恩",
-    "price": 200,
-    "publication_year": 1592 ,
-    "genre": [
-      "Fiction",
-      "Classic"
-    ],
-    "description": "《西遊記》，簡稱《西遊》，是中國古代明朝的第一部浪漫主義章回體長篇神魔小說，全書58.5萬字，共100回，中國四大名著之一、四大奇書之一。成書於16世紀明朝中葉，一般認為作者是明朝的吳承恩。 ",
-    "cover_image": "/images/book-ch-01.png"
-  },
-  {
-    "id": "2",
-    "title": "《紅樓夢》",
-    "author": "曹雪芹",
-    "price": 250,
-    "publication_year": 1792,
-    "genre": [
-      "Dystopian",
-      "Science Fiction"
-    ],
-    "description": "《紅樓夢》也稱《石頭記》，中國古典長篇章回小說，是中國大陸定義的四大小說名著之一。《紅樓夢》書內提及的別名，還有《情僧錄》、《風月寶鑑》、《金陵十二釵》。故事是從女媧補天時所剩下的一塊石頭講起，因無才補天而隨神瑛侍者入世，幻化為賈寶玉降世時口銜的美玉以遊歷世間，因此又名《石頭記》。",
-    "cover_image": "/images/book-ch-02.png"
-  },
-  {
-    "id": "3",
-    "title": "三國演義",
-    "author": "羅貫中",
-    "price": 300,
-    "publication_year": 1522,
-    "genre": [
-      "Classic",
-      "Romance"
-    ],
-    "description": "三國演義》，全名為《三國志通俗演義》，又稱作《三國志演義》、《三國志傳》、《三國傳》、《三國全傳》、《三國英雄志傳》，是中國文學史上第一部長篇歷史演義章回小說。中國古典小說四大名著之一、四大奇書之一。",
-    "cover_image": "/images/book-ch-03.png"
-  },
-  {
-    "id": "4",
-    "title": "《水滸傳》",
-    "author": " 施耐庵",
-    "price": 199,
-    "publication_year": 1524,
-    "genre": [
-      "Fiction",
-      "Classic"
-    ],
-    "description": "《水滸傳》，是以官話白話文寫成的章回小說，列為中國古典四大文學名著之一，六才子書之一。成書年代極具爭議，主流支持「明代嘉靖說」，約1524年。其內容講述北宋山東梁山泊以宋江為首的梁山好漢，由被逼落草，發展壯大，直至受到朝廷招安，東征西討的歷程。",
-    "cover_image": "/images/book-ch-04.png"
-  },
-  {
-    "id": "5",
-    "title": "《金瓶梅》",
-    "author": "蘭陵笑笑生",
-    "price": 259,
-    "publication_year": 1610,
-    "genre": [
-      "Fiction",
-      "Adventure"
-    ],
-    "description": "《金瓶梅》，又名《金瓶梅詞話》，中國古代小說，四大奇書之一，中國歷史上第一部文人獨立創作的長篇中州韻白話文世情章回小說，亦是明代流行的艷情小說。作者姓名不詳，只知筆名為蘭陵笑笑生。由於詳細描述了古代市井平民的生活和社會現實，歷來研究的學說不少，統稱為金瓶梅學。",
-    "cover_image": "/images/book-ch-05.png"
-  },
-  {
-    "id": "6",
-    "title": "《中國春宮祕畫》",
-    "author": "唐伯虎",
-    "price": 388,
-    "publication_year": "明朝",
-    "genre": [
-      "Fantasy",
-      "Adventure"
-    ],
-    "description": "春宮圖，又名「秘戲圖」、「春宮畫」、「春宮兒」、「春畫」、「春冊」，是描述人類性主題的傳統繪畫[1]，在東亞文化圈民間常用作性教育的啟蒙教具。",
-    "cover_image": "/images/book-ch-06.png"
-  },
-  {
-    "id": "7",
-    "title": "《封神演義》",
-    "author": "許仲琳， 陸西星",
-    "price": 200,
-    "publication_year": 1570,
-    "genre": [
-      "Fiction",
-      "Coming-of-age"
-    ],
-    "description": "《封神演義》，俗稱《封神榜》，又名《封神傳》、《商周列國全傳》、《武王伐紂外史》，是一部中國神魔小說，約成書於隆慶、萬曆年間。 關於作者，一說是明朝的許仲琳，也有人認為是明代道教學者陸西星。《封神演義》全書共一百回。",
-    "cover_image": "/images/book-ch-07.png"
-  },
-  {
-    "id": "8",
-    "title": "《山海經》",
-    "author": "大禹、伯益",
-    "price": 200,
-    "publication_year": "戰國至秦漢",
-    "genre": [
-      "Fantasy",
-      "Adventure"
-    ],
-    "description": "《山海經》，先秦時期的古籍，作者不詳，是一部載有怪奇悠謬之說、薈萃珍奇博物的神話地理志。在古代的四部分類法中，或視為山川地志，或視為博物之書。隨著西方現代知識體系的傳入，對《山海經》的認識也突破了過往的框架。",
-    "cover_image": "/images/book-ch-08.png"
-  },
-  {
-    "id": "9",
-    "title": "《聊齋志異》",
-    "author": " 蒲松齡",
-    "price": 150,
-    "publication_year": 1740,
-    "genre": [
-      "Magical Realism",
-      "Literary Fiction"
-    ],
-    "description": "《聊齋志異》，簡稱《聊齋》，又稱《鬼狐傳》，是清康熙年間蒲松齡所著的奇聞軼事小說。 全書共491篇，內容十分廣泛，多談狐仙、鬼、妖，反映了18世紀中國的社會面貌。 作者也在這本書深刻地描寫了狐仙、鬼和妖，而字裡行間也透露出鬼比人還要有情義，以此諷刺當時的時代。",
-    "cover_image": "/images/book-ch-09.png"
-  },
-  {
-    "id": "10",
-    "title": "《搜神記》",
-    "author": "干寶",
-    "price": 180,
-    "publication_year": "晉代",
-    "genre": [
-      "Historical Fiction",
-      "Epic"
-    ],
-    "description": "《搜神記》是晉代干寶搜集撰寫的記錄神仙鬼怪的著作，為魏晉南北朝時期志怪小說的代表。",
-    "cover_image": "/images/book-ch-10.png"
-  },
-  {
-    "id": "11",
-    "title": "The Odyssey",
-    "author": "Homer",
-    "price": 119,
-    "publication_year": "8th century BCE",
-    "genre": [
-      "Epic",
-      "Mythology"
-    ],
-    "description": "An ancient Greek epic poem recounting Odysseus' ten-year journey home after the Trojan War.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "12",
-    "title": "The Divine Comedy",
-    "author": "Dante Alighieri",
-    "price": 109,
-    "publication_year": "1320",
-    "genre": [
-      "Epic",
-      "Poetry"
-    ],
-    "description": "An epic poem that follows the journey of the soul through Hell, Purgatory, and Heaven.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "13",
-    "title": "The Brothers Karamazov",
-    "author": "Fyodor Dostoevsky",
-    "price": 99,
-    "publication_year": 1880,
-    "genre": [
-      "Classic",
-      "Philosophical Fiction"
-    ],
-    "description": "A complex novel exploring themes of spirituality, morality, and human nature.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "14",
-    "title": "Crime and Punishment",
-    "author": "Fyodor Dostoevsky",
-    "price": 109,
-    "publication_year": 1866,
-    "genre": [
-      "Classic",
-      "Psychological Fiction"
-    ],
-    "description": "A psychological thriller revolving around guilt, conscience, and redemption.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "15",
-    "title": "The Picture of Dorian Gray",
-    "author": "Oscar Wilde",
-    "price": 119,
-    "publication_year": 1890,
-    "genre": [
-      "Gothic",
-      "Philosophical Fiction"
-    ],
-    "description": "A novel about a man whose portrait ages while he retains his youth and beauty.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "16",
-    "title": "Brave New World",
-    "author": "Aldous Huxley",
-    "price": 129,
-    "publication_year": 1932,
-    "genre": [
-      "Dystopian",
-      "Science Fiction"
-    ],
-    "description": "A dystopian vision of a future society obsessed with pleasure and conformity.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "17",
-    "title": "The Count of Monte Cristo",
-    "author": "Alexandre Dumas",
-    "price": 139,
-    "publication_year": 1844,
-    "genre": [
-      "Adventure",
-      "Historical Fiction"
-    ],
-    "description": "An adventure novel of revenge, love, and redemption set in the early 19th century.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "18",
-    "title": "Anna Karenina",
-    "author": "Leo Tolstoy",
-    "price": 149,
-    "publication_year": 1877,
-    "genre": [
-      "Classic",
-      "Romance"
-    ],
-    "description": "A tragic love story set against the backdrop of Russian high society.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "19",
-    "title": "The Alchemist",
-    "author": "Paulo Coelho",
-    "price": 159,
-    "publication_year": 1988,
-    "genre": [
-      "Fiction",
-      "Philosophical"
-    ],
-    "description": "A philosophical novel about a shepherd boy's journey to find his personal legend.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "20",
-    "title": "The Adventures of Huckleberry Finn",
-    "author": "Mark Twain",
-    "price": 169,
-    "publication_year": 1884,
-    "genre": [
-      "Adventure",
-      "Satire"
-    ],
-    "description": "A satirical novel following Huck Finn's journey down the Mississippi River.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  },
-  {
-    "id": "21",
-    "title": "The Iliad",
-    "author": "Homer",
-    "price": 179,
-    "publication_year": "8th century BCE",
-    "genre": [
-      "Epic",
-      "Mythology"
-    ],
-    "description": "An ancient Greek epic poem about the Trojan War and the hero Achilles.",
-    "cover_image": "https://fakeimg.pl/100x100/cc6600"
-  }
+    {
+        "id": "1",
+        "title": "《西遊記》",
+        "author": "吳承恩",
+        "price": 200,
+        "publication_year": 1592,
+        "genre": [
+            "Fiction",
+            "Classic"
+        ],
+        "description": "《西遊記》，簡稱《西遊》，是中國古代明朝的第一部浪漫主義章回體長篇神魔小說，全書58.5萬字，共100回，中國四大名著之一、四大奇書之一。成書於16世紀明朝中葉，一般認為作者是明朝的吳承恩。 ",
+        "cover_image": "/images/book-ch-01.png"
+    },
+    {
+        "id": "2",
+        "title": "《紅樓夢》",
+        "author": "曹雪芹",
+        "price": 250,
+        "publication_year": 1792,
+        "genre": [
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "description": "《紅樓夢》也稱《石頭記》，中國古典長篇章回小說，是中國大陸定義的四大小說名著之一。《紅樓夢》書內提及的別名，還有《情僧錄》、《風月寶鑑》、《金陵十二釵》。故事是從女媧補天時所剩下的一塊石頭講起，因無才補天而隨神瑛侍者入世，幻化為賈寶玉降世時口銜的美玉以遊歷世間，因此又名《石頭記》。",
+        "cover_image": "/images/book-ch-02.png"
+    },
+    {
+        "id": "3",
+        "title": "三國演義",
+        "author": "羅貫中",
+        "price": 300,
+        "publication_year": 1522,
+        "genre": [
+            "Classic",
+            "Romance"
+        ],
+        "description": "三國演義》，全名為《三國志通俗演義》，又稱作《三國志演義》、《三國志傳》、《三國傳》、《三國全傳》、《三國英雄志傳》，是中國文學史上第一部長篇歷史演義章回小說。中國古典小說四大名著之一、四大奇書之一。",
+        "cover_image": "/images/book-ch-03.png"
+    },
+    {
+        "id": "4",
+        "title": "《水滸傳》",
+        "author": " 施耐庵",
+        "price": 199,
+        "publication_year": 1524,
+        "genre": [
+            "Fiction",
+            "Classic"
+        ],
+        "description": "《水滸傳》，是以官話白話文寫成的章回小說，列為中國古典四大文學名著之一，六才子書之一。成書年代極具爭議，主流支持「明代嘉靖說」，約1524年。其內容講述北宋山東梁山泊以宋江為首的梁山好漢，由被逼落草，發展壯大，直至受到朝廷招安，東征西討的歷程。",
+        "cover_image": "/images/book-ch-04.png"
+    },
+    {
+        "id": "5",
+        "title": "《金瓶梅》",
+        "author": "蘭陵笑笑生",
+        "price": 259,
+        "publication_year": 1610,
+        "genre": [
+            "Fiction",
+            "Adventure"
+        ],
+        "description": "《金瓶梅》，又名《金瓶梅詞話》，中國古代小說，四大奇書之一，中國歷史上第一部文人獨立創作的長篇中州韻白話文世情章回小說，亦是明代流行的艷情小說。作者姓名不詳，只知筆名為蘭陵笑笑生。由於詳細描述了古代市井平民的生活和社會現實，歷來研究的學說不少，統稱為金瓶梅學。",
+        "cover_image": "/images/book-ch-05.png"
+    },
+    {
+        "id": "6",
+        "title": "《中國春宮祕畫》",
+        "author": "唐伯虎",
+        "price": 388,
+        "publication_year": "明朝",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "description": "春宮圖，又名「秘戲圖」、「春宮畫」、「春宮兒」、「春畫」、「春冊」，是描述人類性主題的傳統繪畫[1]，在東亞文化圈民間常用作性教育的啟蒙教具。",
+        "cover_image": "/images/book-ch-06.png"
+    },
+    {
+        "id": "7",
+        "title": "《封神演義》",
+        "author": "許仲琳， 陸西星",
+        "price": 200,
+        "publication_year": 1570,
+        "genre": [
+            "Fiction",
+            "Coming-of-age"
+        ],
+        "description": "《封神演義》，俗稱《封神榜》，又名《封神傳》、《商周列國全傳》、《武王伐紂外史》，是一部中國神魔小說，約成書於隆慶、萬曆年間。 關於作者，一說是明朝的許仲琳，也有人認為是明代道教學者陸西星。《封神演義》全書共一百回。",
+        "cover_image": "/images/book-ch-07.png"
+    },
+    {
+        "id": "8",
+        "title": "《山海經》",
+        "author": "大禹、伯益",
+        "price": 200,
+        "publication_year": "戰國至秦漢",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "description": "《山海經》，先秦時期的古籍，作者不詳，是一部載有怪奇悠謬之說、薈萃珍奇博物的神話地理志。在古代的四部分類法中，或視為山川地志，或視為博物之書。隨著西方現代知識體系的傳入，對《山海經》的認識也突破了過往的框架。",
+        "cover_image": "/images/book-ch-08.png"
+    },
+    {
+        "id": "9",
+        "title": "《聊齋志異》",
+        "author": " 蒲松齡",
+        "price": 150,
+        "publication_year": 1740,
+        "genre": [
+            "Magical Realism",
+            "Literary Fiction"
+        ],
+        "description": "《聊齋志異》，簡稱《聊齋》，又稱《鬼狐傳》，是清康熙年間蒲松齡所著的奇聞軼事小說。 全書共491篇，內容十分廣泛，多談狐仙、鬼、妖，反映了18世紀中國的社會面貌。 作者也在這本書深刻地描寫了狐仙、鬼和妖，而字裡行間也透露出鬼比人還要有情義，以此諷刺當時的時代。",
+        "cover_image": "/images/book-ch-09.png"
+    },
+    {
+        "id": "10",
+        "title": "《搜神記》",
+        "author": "干寶",
+        "price": 180,
+        "publication_year": "晉代",
+        "genre": [
+            "Historical Fiction",
+            "Epic"
+        ],
+        "description": "《搜神記》是晉代干寶搜集撰寫的記錄神仙鬼怪的著作，為魏晉南北朝時期志怪小說的代表。",
+        "cover_image": "/images/book-ch-10.png"
+    },
+    {
+        "id": "11",
+        "title": "The Odyssey",
+        "author": "Homer",
+        "price": 119,
+        "publication_year": "8th century BCE",
+        "genre": [
+            "Epic",
+            "Mythology"
+        ],
+        "description": "An ancient Greek epic poem recounting Odysseus' ten-year journey home after the Trojan War.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "12",
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "price": 109,
+        "publication_year": "1320",
+        "genre": [
+            "Epic",
+            "Poetry"
+        ],
+        "description": "An epic poem that follows the journey of the soul through Hell, Purgatory, and Heaven.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "13",
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "price": 99,
+        "publication_year": 1880,
+        "genre": [
+            "Classic",
+            "Philosophical Fiction"
+        ],
+        "description": "A complex novel exploring themes of spirituality, morality, and human nature.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "14",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "price": 109,
+        "publication_year": 1866,
+        "genre": [
+            "Classic",
+            "Psychological Fiction"
+        ],
+        "description": "A psychological thriller revolving around guilt, conscience, and redemption.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "15",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "price": 119,
+        "publication_year": 1890,
+        "genre": [
+            "Gothic",
+            "Philosophical Fiction"
+        ],
+        "description": "A novel about a man whose portrait ages while he retains his youth and beauty.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "16",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "price": 129,
+        "publication_year": 1932,
+        "genre": [
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "description": "A dystopian vision of a future society obsessed with pleasure and conformity.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "17",
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "price": 139,
+        "publication_year": 1844,
+        "genre": [
+            "Adventure",
+            "Historical Fiction"
+        ],
+        "description": "An adventure novel of revenge, love, and redemption set in the early 19th century.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "18",
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "price": 149,
+        "publication_year": 1877,
+        "genre": [
+            "Classic",
+            "Romance"
+        ],
+        "description": "A tragic love story set against the backdrop of Russian high society.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "19",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "price": 159,
+        "publication_year": 1988,
+        "genre": [
+            "Fiction",
+            "Philosophical"
+        ],
+        "description": "A philosophical novel about a shepherd boy's journey to find his personal legend.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "20",
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "price": 169,
+        "publication_year": 1884,
+        "genre": [
+            "Adventure",
+            "Satire"
+        ],
+        "description": "A satirical novel following Huck Finn's journey down the Mississippi River.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    },
+    {
+        "id": "21",
+        "title": "The Iliad",
+        "author": "Homer",
+        "price": 179,
+        "publication_year": "8th century BCE",
+        "genre": [
+            "Epic",
+            "Mythology"
+        ],
+        "description": "An ancient Greek epic poem about the Trojan War and the hero Achilles.",
+        "cover_image": "https://fakeimg.pl/100x100/cc6600"
+    }
 ]
