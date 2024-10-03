@@ -3,7 +3,7 @@
     "id": "1",
     "title": "《西遊記》",
     "author": "吳承恩",
-    "price": $200,
+    "price": 200,
     "publication_year": 1592 ,
     "genre": [
       "Fiction",
