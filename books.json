@@ -1,4 +1,25 @@
-[
+{
+"users": [
+    {
+      "id": "3eko",
+      "username": "Wongmeow177",
+      "email": "wongwong717@mail.com",
+      "password": "123789!!meoW"
+    },
+    {
+      "id": "19oo",
+      "username": "ChanHungT",
+      "email": "hungChant0@yahoo.com",
+      "password": "myN4m3!sHnug."
+    },
+    {
+      "id": "d0b8",
+      "username": "o7zSiu",
+      "email": "mrSiuisPROJJ@mail.com",
+      "password": "SiuGodisback"
+    }
+  ],
+"books":[
     {
         "id": "1",
         "title": "《西遊記》",
@@ -273,3 +294,4 @@
         "cover_image": "https://fakeimg.pl/100x100/cc6600"
     }
 ]
+}
