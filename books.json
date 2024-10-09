@@ -161,7 +161,7 @@
             "Mythology"
         ],
         "description": "An ancient Greek epic poem recounting Odysseus' ten-year journey home after the Trojan War.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "12",
@@ -174,7 +174,7 @@
             "Poetry"
         ],
         "description": "An epic poem that follows the journey of the soul through Hell, Purgatory, and Heaven.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "13",
@@ -187,7 +187,7 @@
             "Philosophical Fiction"
         ],
         "description": "A complex novel exploring themes of spirituality, morality, and human nature.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "14",
@@ -200,7 +200,7 @@
             "Psychological Fiction"
         ],
         "description": "A psychological thriller revolving around guilt, conscience, and redemption.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "15",
@@ -213,7 +213,7 @@
             "Philosophical Fiction"
         ],
         "description": "A novel about a man whose portrait ages while he retains his youth and beauty.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "16",
@@ -226,7 +226,7 @@
             "Science Fiction"
         ],
         "description": "A dystopian vision of a future society obsessed with pleasure and conformity.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "17",
@@ -239,7 +239,7 @@
             "Historical Fiction"
         ],
         "description": "An adventure novel of revenge, love, and redemption set in the early 19th century.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "18",
@@ -252,7 +252,7 @@
             "Romance"
         ],
         "description": "A tragic love story set against the backdrop of Russian high society.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "19",
@@ -265,7 +265,7 @@
             "Philosophical"
         ],
         "description": "A philosophical novel about a shepherd boy's journey to find his personal legend.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "20",
@@ -278,7 +278,7 @@
             "Satire"
         ],
         "description": "A satirical novel following Huck Finn's journey down the Mississippi River.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     },
     {
         "id": "21",
@@ -291,7 +291,7 @@
             "Mythology"
         ],
         "description": "An ancient Greek epic poem about the Trojan War and the hero Achilles.",
-        "cover_image": "/images/onthisbook.png"
+        "cover_image": "/images/nothisbook.png"
     }
 ]
 }
