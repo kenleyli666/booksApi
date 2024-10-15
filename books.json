@@ -48,7 +48,7 @@
     },
     {
         "id": "3",
-        "title": "三國演義",
+        "title": "《三國演義》",
         "author": "羅貫中",
         "price": 300,
         "publication_year": 1522,
@@ -152,7 +152,7 @@
     },
     {
         "id": "11",
-        "title": "The Odyssey",
+        "title": "《The Odyssey》",
         "author": "Homer",
         "price": 119,
         "publication_year": "8th century BCE",
@@ -165,7 +165,7 @@
     },
     {
         "id": "12",
-        "title": "The Divine Comedy",
+        "title": "《The Divine Comedy》",
         "author": "Dante Alighieri",
         "price": 109,
         "publication_year": "1320",
@@ -178,7 +178,7 @@
     },
     {
         "id": "13",
-        "title": "The Brothers Karamazov",
+        "title": "《The Brothers Karamazov》",
         "author": "Fyodor Dostoevsky",
         "price": 99,
         "publication_year": 1880,
@@ -191,7 +191,7 @@
     },
     {
         "id": "14",
-        "title": "Crime and Punishment",
+        "title": "《Crime and Punishment》",
         "author": "Fyodor Dostoevsky",
         "price": 109,
         "publication_year": 1866,
@@ -204,7 +204,7 @@
     },
     {
         "id": "15",
-        "title": "The Picture of Dorian Gray",
+        "title": "《The Picture of Dorian Gray》",
         "author": "Oscar Wilde",
         "price": 119,
         "publication_year": 1890,
@@ -217,7 +217,7 @@
     },
     {
         "id": "16",
-        "title": "Brave New World",
+        "title": "《Brave New World》",
         "author": "Aldous Huxley",
         "price": 129,
         "publication_year": 1932,
@@ -230,7 +230,7 @@
     },
     {
         "id": "17",
-        "title": "The Count of Monte Cristo",
+        "title": "《The Count of Monte Cristo》",
         "author": "Alexandre Dumas",
         "price": 139,
         "publication_year": 1844,
@@ -243,7 +243,7 @@
     },
     {
         "id": "18",
-        "title": "Anna Karenina",
+        "title": "《Anna Karenina》",
         "author": "Leo Tolstoy",
         "price": 149,
         "publication_year": 1877,
@@ -256,7 +256,7 @@
     },
     {
         "id": "19",
-        "title": "The Alchemist",
+        "title": "《The Alchemist》",
         "author": "Paulo Coelho",
         "price": 159,
         "publication_year": 1988,
@@ -269,7 +269,7 @@
     },
     {
         "id": "20",
-        "title": "The Adventures of Huckleberry Finn",
+        "title": "《The Adventures of Huckleberry Finn》",
         "author": "Mark Twain",
         "price": 169,
         "publication_year": 1884,
@@ -282,7 +282,7 @@
     },
     {
         "id": "21",
-        "title": "The Iliad",
+        "title": "《The Iliad》",
         "author": "Homer",
         "price": 179,
         "publication_year": "8th century BCE",
