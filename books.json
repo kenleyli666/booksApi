@@ -84,7 +84,7 @@
         ],
         "description": "《金瓶梅》，又名《金瓶梅詞話》，中國古代小說，四大奇書之一，中國歷史上第一部文人獨立創作的長篇中州韻白話文世情章回小說，亦是明代流行的艷情小說。作者姓名不詳，只知筆名為蘭陵笑笑生。由於詳細描述了古代市井平民的生活和社會現實，歷來研究的學說不少，統稱為金瓶梅學。",
         "cover_image": "/images/book-ch-05.png",
-         "video": "<iframe src=\"//player.bilibili.com/player.html?isOutside=true&aid=1802627476&bvid=BV1ht421n7wX&cid=1495636037&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" style=\"width: 100%; height: 500px;\"></iframe>"
+         "video": "<iframe src=\"//player.bilibili.com/player.html?isOutside=true&aid=1802627476&bvid=BV1ht421n7wX&cid=1495636037&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" style=\"width: 100%; height: 500px;\ allow=\"autoplay\""></iframe>"
     },
     {
         "id": "6",
@@ -98,7 +98,7 @@
         ],
         "description": "春宮圖，又名「秘戲圖」、「春宮畫」、「春宮兒」、「春畫」、「春冊」，是描述人類性主題的傳統繪畫[1]，在東亞文化圈民間常用作性教育的啟蒙教具。",
         "cover_image": "/images/book-ch-06.png",
-         "video": "<iframe src=\"//player.bilibili.com/player.html?isOutside=true&aid=1802627476&bvid=BV1ht421n7wX&cid=1495636037&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" style=\"width: 100%; height: 500px;\"></iframe>"
+         "video": "<iframe src=\"//player.bilibili.com/player.html?isOutside=true&aid=1802627476&bvid=BV1ht421n7wX&cid=1495636037&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" style=\"width: 100%; height: 500px; allow=\"autoplay\"\"></iframe>"
     },
     {
         "id": "7",
